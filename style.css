@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+body{
+
+}
+nav{
+    
+}
+nav ul{
+    display: flex;
+    flex-direction: row;
+    list-style: none;
+    justify-content: space-around;
+}
+main{
+    font-size: 3rem;
+}
+footer{
+
+}
+
+#titulo-general{
+    font-size: 30px;
+}
+#listado-general{
+    
+}
